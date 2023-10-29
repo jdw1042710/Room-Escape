@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SoundSFX
+  m_EditorClassIdentifier: 
+  m_GroupName: SoundSFX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b4c190c9920c0af4297c600c0facacaf
+  m_SerializeEntries:
+  - m_GUID: 6ed0f8509e9e44272a85f74fdc61879b
+    m_Address: Assets/SFX/Object/Door_Locked.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc4537865ae1479b9e7ac12ab172909
+    m_Address: Assets/SFX/Object/Door_Open.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 304f2bf2228cba94e91cd22803e54bcf
+    m_Address: Assets/SFX/Character/Footstep_Jump.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ca5a9710db4327439c9f8cb8204615e
+    m_Address: Assets/SFX/Character/Footstep_Walk.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e6b6259599b49de44a4dd8566034f5c8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 015339faa7382ab4eabbf66915250f37, type: 2}
+    - {fileID: 11400000, guid: 2ecf2ffb0b1ea4f4ca054604d09772a5, type: 2}
